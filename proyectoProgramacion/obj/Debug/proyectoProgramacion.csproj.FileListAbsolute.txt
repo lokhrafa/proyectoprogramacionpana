@@ -1,0 +1,10 @@
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\bin\Debug\proyectoProgramacion.exe.config
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\bin\Debug\proyectoProgramacion.exe
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\bin\Debug\proyectoProgramacion.pdb
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.csprojAssemblyReference.cache
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.Form1.resources
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.Properties.Resources.resources
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.csproj.GenerateResource.cache
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.csproj.CoreCompileInputs.cache
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.exe
+c:\users\rafael batista\source\repos\proyectoProgramacion\proyectoProgramacion\obj\Debug\proyectoProgramacion.pdb
